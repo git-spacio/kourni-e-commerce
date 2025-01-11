@@ -1,0 +1,1 @@
+prestashop_url = 'https://spacionatural.cl/api'
